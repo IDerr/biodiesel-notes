@@ -1,8 +1,8 @@
-input: .
+input: src/
 output: .retype
-url: # Add your website address here
+url: iderr.github.io# Add your website address here
 branding:
-  title: Biodiesel notes
+  title: Biodiesel
   label: Docs
 links:
 - text: Getting Started

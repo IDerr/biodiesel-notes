@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://iderr.github.io# Add your website address here/sitemap.xml.gz
+Sitemap: https://iderr.github.io/biodiesel-notes/sitemap.xml.gz

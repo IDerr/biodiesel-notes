@@ -15,8 +15,8 @@ Generally speaking, if you have a FFA rate above 3%, you will need to pretreat y
 ### Acid Esterification
 
 Methanol and sulfuric acid are mixed with oils, and FFA is converted into methyl esters. This process results in no yield loss and no soap production.
-However, it does create some water which stops the reaction. 
-One approch to deal with that, is to add a lot of methanol to not limit the reaction (40:1 molar ratio minimum) as stated [here](https://www.youtube.com/watch?v=NPF6vdfLHlU)
+However, it does create some water which can stop the reaction. 
+We can solve this by adding methanol to the mix to not limit the reaction (40:1 molar ratio) as stated [here](https://www.youtube.com/watch?v=NPF6vdfLHlU)
 
 
 ### Other methods

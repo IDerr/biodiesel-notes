@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://iderr.github.io/biodiesel-notes/sitemap.xml.gz
+Sitemap: https://dieseltag.liams.site/sitemap.xml.gz

@@ -1,6 +1,6 @@
 input: src/
 output: .retype
-url: https://iderr.github.io/biodiesel-notes/
+url: https://dieseltag.liams.site/
 branding:
   title: Biodiesel
   label: Docs

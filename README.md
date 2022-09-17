@@ -1,2 +1,2 @@
 # biodiesel-notes
-Learning notes on making your own biodiesel fuel
+Learning notes on making your own biodiesel

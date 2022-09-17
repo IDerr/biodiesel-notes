@@ -6,16 +6,16 @@ sidebar_position: 1
 
 ## Introduction
 
-First of all, you need to prepare your oil to make good quality bio diesel.
+Why do you need to prepare your oil? Simple, better ingredients, better result.
 
-First thing you will be looking on is Free Fatty Acids aka FFA which directly impact biodiesel's quality. 
-They are commonly released when fried or is naturally present in some oils (Corn Oil, Rapeseed, Jatropha).
-
-Generally speaking, if you have a FFA rate above 3%, you will need to pretreat your oil.
+First thing, you need to determine the quantity of Free Fatty Acids (FFA) of your oil. Idaho's university has made a great video on the method to determine by titration (https://youtu.be/KZ35K05SA7g)
+If you have a FFA rate above 3%, it's recommanded to pretreat your oil.
 
 ## Pretreatements
-### Acid Esterification
 
+Now that you have determined your FFA quantity, you need to lower this value (or not, and you can skip this part)
+
+### Acid Esterification
 Methanol and sulfuric acid are mixed with oils, and FFA is converted into methyl esters. This process results in no yield loss and no soap production.
 However, it does create some water which can stop the reaction. 
 We can solve this by adding methanol to the mix to not limit the reaction (40:1 molar ratio) as stated [here](https://www.youtube.com/watch?v=NPF6vdfLHlU)
